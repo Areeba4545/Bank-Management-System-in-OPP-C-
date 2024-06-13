@@ -1,1 +1,1 @@
-# Bank-Management-System-in-OPP-C++
+# Bank-Management-System (OPP-C++)
